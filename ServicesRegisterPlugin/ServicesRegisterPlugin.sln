@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicesRegisterPlugin", "ServicesRegisterPlugin\ServicesRegisterPlugin.csproj", "{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApi", "TestApi\TestApi.csproj", "{102FBF34-DE3C-443A-ACCF-EC67715C38C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{102FBF34-DE3C-443A-ACCF-EC67715C38C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102FBF34-DE3C-443A-ACCF-EC67715C38C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102FBF34-DE3C-443A-ACCF-EC67715C38C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102FBF34-DE3C-443A-ACCF-EC67715C38C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57F99CBA-1BBB-48F9-9B68-B048989EDC7D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\honor\\desktop\\serviceregisterplugin\\servicesregisterplugin\\servicesregisterplugin\\helpers\\assemblyhelpe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\helpers\\assemblyhelpe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\honor\\desktop\\serviceregisterplugin\\servicesregisterplugin\\servicesregisterplugin\\atributes\\scoped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\atributes\\scoped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\honor\\desktop\\serviceregisterplugin\\servicesregisterplugin\\servicesregisterplugin\\registrations\\dynamicserviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\registrations\\dynamicserviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|c:\\users\\honor\\desktop\\serviceregisterplugin\\servicesregisterplugin\\testapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|c:\\users\\honor\\desktop\\serviceregisterplugin\\servicesregisterplugin\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|solutionrelative:testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|c:\\users\\honor\\desktop\\serviceregisterplugin\\servicesregisterplugin\\testapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|solutionrelative:testapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|c:\\users\\honor\\desktop\\serviceregisterplugin\\servicesregisterplugin\\testapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|solutionrelative:testapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyHelpe.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Helpers\\AssemblyHelpe.cs",
+              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Helpers\\AssemblyHelpe.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Helpers\\AssemblyHelpe.cs",
+              "RelativeToolTip": "ServicesRegisterPlugin\\Helpers\\AssemblyHelpe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:36:22.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scoped.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Atributes\\Scoped.cs",
+              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Atributes\\Scoped.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Atributes\\Scoped.cs",
+              "RelativeToolTip": "ServicesRegisterPlugin\\Atributes\\Scoped.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:36:20.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\TestApi\\Program.cs",
+              "RelativeDocumentMoniker": "TestApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\TestApi\\Program.cs",
+              "RelativeToolTip": "TestApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:29:12.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\TestApi\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\TestApi\\Services\\IProductService.cs",
+              "RelativeToolTip": "TestApi\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:27:54.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\TestApi\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "TestApi\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\TestApi\\Controllers\\TestController.cs",
+              "RelativeToolTip": "TestApi\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:27:12.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\TestApi\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\TestApi\\Services\\ProductService.cs",
+              "RelativeToolTip": "TestApi\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:23:37.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DynamicServiceRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Registrations\\DynamicServiceRegistrar.cs",
+              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Registrations\\DynamicServiceRegistrar.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Registrations\\DynamicServiceRegistrar.cs",
+              "RelativeToolTip": "ServicesRegisterPlugin\\Registrations\\DynamicServiceRegistrar.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAtwDIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:16:30.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
