@@ -1,65 +1,29 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using ServicesRegisterPlugin.Atributes;
+using ServicesRegisterPlugin.Factory;
 using ServicesRegisterPlugin.Helpers;
+using ServicesRegisterPlugin.Options;
 using System.Reflection;
-
 namespace ServicesRegisterPlugin.Registrations;
 
-public static class DynamicServiceRegistrar
+internal static class DynamicServiceRegistrar
 {
-    /// <summary>
-    /// Registers services dynamically based on custom attributes.
-    /// </summary>
-    public static void RegisterServices(this IServiceCollection services, string assemblyPrefix = "")
+    public static void RegisterServices(IServiceCollection services, ServiceRegistrationOptions options)
     {
-        var assemblies = AssemblyHelper.GetProjectAssemblies(assemblyPrefix);
-        foreach (var assembly in assemblies)
+        var typesToRegister = AssemblyHelper.GetProjectAssemblies(options.AssemblyPrefix)
+                                            .SelectMany(asm => asm.GetTypes())
+                                            .Where(type => type.GetCustomAttributes()
+                                            .Any(attr => attr is Singleton ||attr is Scoped || attr is Transient))
+                                            .ToList();
+
+        foreach (var type in typesToRegister)
         {
-            var typesToRegister = assembly.GetTypes()
-                .Where(type => !type.IsAbstract && !type.IsInterface); // Only consider non-abstract, non-interface types
+            var attribute = type.GetCustomAttributes()
+                .Where(attr => attr is Singleton || attr is Scoped || attr is Transient)
+                .First();
 
-            foreach (var type in typesToRegister)
-            {
-                var lifetime = GetServiceLifetime(type);
-                if (lifetime is not null)
-                {
-                    RegisterType(services, type, lifetime.Value);
-                }
-            }
-        }
-    }
-
-    /// <summary>
-    /// Determines the service lifetime based on the custom attributes.
-    /// </summary>
-    private static ServiceLifetime? GetServiceLifetime(Type type)
-    {
-        if (type.GetCustomAttribute<Scoped>() != null)
-            return ServiceLifetime.Scoped;
-        if (type.GetCustomAttribute<Transient>() != null)
-            return ServiceLifetime.Transient;
-        if (type.GetCustomAttribute<Singleton>() != null)
-            return ServiceLifetime.Singleton;
-
-        return default; // If no attribute is found, return null
-    }
-
-    /// <summary>
-    /// Registers a specific type in the service collection based on the service lifetime.
-    /// </summary>
-    private static void RegisterType(IServiceCollection services, Type type, ServiceLifetime lifetime)
-    {
-        var interfaceTypes = type.GetInterfaces()
-                                 .Where(x => x != typeof(IDisposable)); // Avoid registering IDisposable
-
-        foreach (var interfaceType in interfaceTypes)
-        {
-            services.Add(new ServiceDescriptor(interfaceType, type, lifetime));
-        }
-
-        if (!interfaceTypes.Any())
-        {
-            services.Add(new ServiceDescriptor(type, type, lifetime));
+            var strategy = RegistrationStrategyFactory.Create(attribute.GetType());
+            strategy.Register(services, type, options.Lifetime);
         }
     }
 }

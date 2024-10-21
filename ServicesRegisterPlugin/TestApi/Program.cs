@@ -1,4 +1,4 @@
-using ServicesRegisterPlugin.Registrations;
+using ServicesRegisterPlugin.Extentions;
 
 var builder = WebApplication.CreateBuilder(args);
 

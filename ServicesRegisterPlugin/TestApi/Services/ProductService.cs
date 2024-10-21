@@ -2,7 +2,7 @@
 
 namespace TestApi.Services;
 
-[Scoped]
+[Scoped(nameof(IProductService))]
 public class ProductService : IProductService
 {
 }

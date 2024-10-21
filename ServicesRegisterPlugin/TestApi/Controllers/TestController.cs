@@ -7,8 +7,12 @@ namespace TestApi.Controllers;
 public class TestController : ControllerBase
 {
     readonly IProductService _productService;
-    public TestController(IProductService productService) => _productService = productService;
-
+    readonly CategoryService _categoryService;
+    public TestController(IProductService productService, CategoryService categoryService)
+    {
+        _productService = productService;
+        _categoryService = categoryService;
+    }
     [HttpGet]
     public string Get() => "Test";
 }

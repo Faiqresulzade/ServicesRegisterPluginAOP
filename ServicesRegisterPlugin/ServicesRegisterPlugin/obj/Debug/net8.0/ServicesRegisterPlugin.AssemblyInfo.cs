@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServicesRegisterPlugin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f11c49f663570d9ff6b7a39933afc8723b95b430")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServicesRegisterPlugin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServicesRegisterPlugin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

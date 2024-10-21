@@ -500,11 +500,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj",
+      "projectUniqueName": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj",
       "projectName": "TestApi",
-      "projectPath": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj",
+      "projectPath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj",
       "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\TestApi\\obj\\",
+      "outputPath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -522,8 +522,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj": {
-              "projectPath": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj"
+            "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj": {
+              "projectPath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj"
             }
           }
         }

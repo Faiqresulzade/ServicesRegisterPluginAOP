@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Miw5o8xgeA=",
+  "dgSpecHash": "lSYqmB/g+Zc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj",
+  "projectFilePath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Honor\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Honor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",

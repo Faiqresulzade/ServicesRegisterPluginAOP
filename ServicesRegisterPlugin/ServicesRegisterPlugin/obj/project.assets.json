@@ -65,11 +65,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
+      "projectUniqueName": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
       "projectName": "ServicesRegisterPlugin",
-      "projectPath": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
+      "projectPath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
       "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Honor\\Desktop\\ServiceRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\obj\\",
+      "outputPath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
