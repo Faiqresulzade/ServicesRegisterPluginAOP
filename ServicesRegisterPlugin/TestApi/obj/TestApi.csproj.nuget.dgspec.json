@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj": {}
+    "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj": {
+    "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
-        "projectName": "ServicesRegisterPlugin",
-        "projectPath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
-        "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\obj\\",
+        "projectUniqueName": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
+        "projectName": "AutoDIRegister",
+        "projectPath": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
+        "packagesPath": "C:\\Users\\fbrasulzade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fbrasulzade\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -23,7 +23,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.xalqbank.az/api/v4/projects/278/packages/nuget/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -67,21 +68,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj": {
+    "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj",
+        "projectUniqueName": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj",
         "projectName": "TestApi",
-        "projectPath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj",
-        "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\obj\\",
+        "projectPath": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj",
+        "packagesPath": "C:\\Users\\fbrasulzade\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fbrasulzade\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,14 +91,15 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.xalqbank.az/api/v4/projects/278/packages/nuget/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj": {
-                "projectPath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj"
+              "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj": {
+                "projectPath": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj"
               }
             }
           }
@@ -141,7 +143,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

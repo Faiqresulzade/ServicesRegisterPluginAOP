@@ -23,3 +23,16 @@ C:\Users\Honor\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\Services
 C:\Users\Honor\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\obj\Debug\net8.0\refint\ServicesRegisterPlugin.dll
 C:\Users\Honor\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\obj\Debug\net8.0\ServicesRegisterPlugin.pdb
 C:\Users\Honor\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\obj\Debug\net8.0\ref\ServicesRegisterPlugin.dll
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\bin\Debug\net8.0\ServicesRegisterPlugin.deps.json
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\bin\Debug\net8.0\ServicesRegisterPlugin.dll
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\bin\Debug\net8.0\ServicesRegisterPlugin.pdb
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\obj\Debug\net8.0\ServicesRegisterPlugin.csproj.AssemblyReference.cache
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\obj\Debug\net8.0\ServicesRegisterPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\obj\Debug\net8.0\ServicesRegisterPlugin.AssemblyInfoInputs.cache
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\obj\Debug\net8.0\ServicesRegisterPlugin.AssemblyInfo.cs
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\obj\Debug\net8.0\ServicesRegisterPlugin.csproj.CoreCompileInputs.cache
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\obj\Debug\net8.0\ServicesRegisterPlugin.sourcelink.json
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\obj\Debug\net8.0\ServicesRegisterPlugin.dll
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\obj\Debug\net8.0\refint\ServicesRegisterPlugin.dll
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\obj\Debug\net8.0\ServicesRegisterPlugin.pdb
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\obj\Debug\net8.0\ref\ServicesRegisterPlugin.dll

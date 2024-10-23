@@ -1,5 +1,4 @@
 ﻿using ServicesRegisterPlugin.Atributes;
-
 namespace TestApi.Services;
 
 [Scoped(nameof(IProductService))]

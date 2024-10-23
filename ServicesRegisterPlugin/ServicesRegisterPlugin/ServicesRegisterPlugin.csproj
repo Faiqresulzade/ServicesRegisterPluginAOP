@@ -4,10 +4,67 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>AutoDIRegister</PackageId>
+    <Title>Automatic Dependency Injection Registration</Title>
+    <Authors>Faig Rasulzada</Authors>
+    <Company>Faig Rasulzada</Company>
+    <Product>AutoDIRegister</Product>
+    <Description>A dynamic service registration plugin for .NET, allowing automatic registration of services using custom attributes such as Singleton, Scoped, and Transient. Supports configurable options for flexible dependency injection and registration handling.  </Description>
+    <Copyright>Copyright 2024</Copyright>
+    <PackageProjectUrl>https://kimyabirliyi.az/</PackageProjectUrl>
+    <PackageIcon>DI.png</PackageIcon>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/Faiqresulzade/ServicesRegisterPluginAOP</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>register service register DI dependency injection</PackageTags>
+    <PackageReleaseNotes># Release Notes
+
+## [1.0.0] - 2024-10-17
+### Initial Release
+- Added support for automatic service registration based on custom attributes: `[Singleton]`, `[Scoped]`, and `[Transient]`.
+- Implemented configuration options via `ServiceRegistrationOptions` for flexible registration.
+- Added support for registering open generic types.
+- Enabled custom type filters to control which services should be registered.
+- Added conflict handling options to gracefully handle duplicate registrations.
+- Provided extension methods for easy integration with `IServiceCollection`.
+
+## [1.1.0] - 2024-11-01
+### Improvements
+- Enhanced registration performance for large assemblies.
+- Added support for custom lifetime options for individual services.
+- Improved error handling and logging during the registration process.
+
+## [1.1.1] - 2024-11-10
+### Bug Fixes
+- Fixed a bug where services with multiple lifetimes were not registered correctly.
+- Addressed an issue where open generic types were not resolved properly in some cases.
+
+## [1.2.0] - 2024-12-01
+### New Features
+- Added support for attribute-based filtering based on attribute parameters.
+- Introduced an event-based system for tracking registration actions (`OnRegistering` callback).
+- Enabled handling of additional custom attributes for future extensibility.
+</PackageReleaseNotes>
+    <NeutralLanguage>en</NeutralLanguage>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="..\..\..\..\Downloads\DI.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>

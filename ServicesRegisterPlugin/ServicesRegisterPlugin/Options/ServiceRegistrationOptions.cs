@@ -17,11 +17,6 @@ public class ServiceRegistrationOptions
     public Func<Type, bool>? TypeFilter { get; set; }
 
     /// <summary>
-    /// Determines whether to register open generic types.
-    /// </summary>
-    public bool RegisterOpenGenerics { get; set; } = false;
-
-    /// <summary>
     /// Specifies the default service lifetime if not overridden by attributes.
     /// </summary>
     public ServiceLifetime Lifetime { get; set; } = ServiceLifetime.Scoped;

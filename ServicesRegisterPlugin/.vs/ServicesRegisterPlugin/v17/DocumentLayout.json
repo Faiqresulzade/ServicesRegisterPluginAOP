@@ -1,70 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\",
+  "WorkspaceRootPath": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\options\\serviceregistrationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\options\\serviceregistrationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\extentions\\dynamicregisterdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\extentions\\dynamicregisterdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\registrations\\dynamicserviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\registrations\\dynamicserviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\registrations\\dynamicserviceregistrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|solutionrelative:testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\strategies\\registrationstrategybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\strategies\\registrationstrategybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\strategies\\registrationstrategybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\strategies\\scopedregistrationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\strategies\\scopedregistrationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\strategies\\scopedregistrationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\strategies\\singletonregistrationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\strategies\\singletonregistrationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\strategies\\singletonregistrationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\strategies\\transientregistrationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\strategies\\transientregistrationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\strategies\\transientregistrationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\factory\\registrationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\exceptions\\notfoundtypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\exceptions\\notfoundtypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\extentions\\dynamicregisterdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\extentions\\dynamicregisterdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\factory\\registrationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\factory\\registrationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\atributes\\scoped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\atributes\\scoped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\atributes\\transient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\atributes\\transient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\atributes\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\atributes\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\testapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|solutionrelative:testapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\testapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\testapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\testapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|solutionrelative:testapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|c:\\users\\honor\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\testapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\testapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|solutionrelative:testapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\testapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|solutionrelative:testapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\options\\serviceregistrationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\options\\serviceregistrationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|solutionrelative:testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\testapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102FBF34-DE3C-443A-ACCF-EC67715C38C1}|TestApi\\TestApi.csproj|solutionrelative:testapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\servicesregisterplugin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\servicesregisterplugin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|c:\\users\\fbrasulzade\\desktop\\servicesregisterpluginaop\\servicesregisterplugin\\servicesregisterplugin\\servicesregisterplugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3312C714-12EF-44BC-99C7-7BC4F9C2D5D9}|ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj|solutionrelative:servicesregisterplugin\\servicesregisterplugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,219 +78,223 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "RegistrationStrategyBase.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\RegistrationStrategyBase.cs",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\RegistrationStrategyBase.cs",
               "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Strategies\\RegistrationStrategyBase.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\RegistrationStrategyBase.cs",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\RegistrationStrategyBase.cs",
               "RelativeToolTip": "ServicesRegisterPlugin\\Strategies\\RegistrationStrategyBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:26:44.971Z",
+              "WhenOpened": "2024-10-23T12:30:19.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DynamicServiceRegistrar.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Registrations\\DynamicServiceRegistrar.cs",
-              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Registrations\\DynamicServiceRegistrar.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Registrations\\DynamicServiceRegistrar.cs",
-              "RelativeToolTip": "ServicesRegisterPlugin\\Registrations\\DynamicServiceRegistrar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAWAAAAAAAAAA==",
+              "Title": "ScopedRegistrationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\ScopedRegistrationStrategy.cs",
+              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Strategies\\ScopedRegistrationStrategy.cs",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\ScopedRegistrationStrategy.cs",
+              "RelativeToolTip": "ServicesRegisterPlugin\\Strategies\\ScopedRegistrationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T16:16:30.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DynamicRegisterDI.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Extentions\\DynamicRegisterDI.cs",
-              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Extentions\\DynamicRegisterDI.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Extentions\\DynamicRegisterDI.cs",
-              "RelativeToolTip": "ServicesRegisterPlugin\\Extentions\\DynamicRegisterDI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:10:55.643Z",
+              "WhenOpened": "2024-10-23T12:13:12.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ServiceRegistrationOptions.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Options\\ServiceRegistrationOptions.cs",
-              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Options\\ServiceRegistrationOptions.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Options\\ServiceRegistrationOptions.cs",
-              "RelativeToolTip": "ServicesRegisterPlugin\\Options\\ServiceRegistrationOptions.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAsAAAA1AAAAAAAAAA==",
+              "Title": "DynamicServiceRegistrar.cs",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Registrations\\DynamicServiceRegistrar.cs",
+              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Registrations\\DynamicServiceRegistrar.cs",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Registrations\\DynamicServiceRegistrar.cs",
+              "RelativeToolTip": "ServicesRegisterPlugin\\Registrations\\DynamicServiceRegistrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:37:02.682Z",
+              "WhenOpened": "2024-10-23T12:11:53.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Program.cs",
-              "RelativeDocumentMoniker": "TestApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Program.cs",
-              "RelativeToolTip": "TestApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Title": "SingletonRegistrationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\SingletonRegistrationStrategy.cs",
+              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Strategies\\SingletonRegistrationStrategy.cs",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\SingletonRegistrationStrategy.cs",
+              "RelativeToolTip": "ServicesRegisterPlugin\\Strategies\\SingletonRegistrationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T16:29:12.787Z",
+              "WhenOpened": "2024-10-23T12:32:47.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ScopedRegistrationStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\ScopedRegistrationStrategy.cs",
-              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Strategies\\ScopedRegistrationStrategy.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\ScopedRegistrationStrategy.cs",
-              "RelativeToolTip": "ServicesRegisterPlugin\\Strategies\\ScopedRegistrationStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "TransientRegistrationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\TransientRegistrationStrategy.cs",
+              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Strategies\\TransientRegistrationStrategy.cs",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\TransientRegistrationStrategy.cs",
+              "RelativeToolTip": "ServicesRegisterPlugin\\Strategies\\TransientRegistrationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:27:12.271Z",
+              "WhenOpened": "2024-10-23T12:33:09.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SingletonRegistrationStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\SingletonRegistrationStrategy.cs",
-              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Strategies\\SingletonRegistrationStrategy.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\SingletonRegistrationStrategy.cs",
-              "RelativeToolTip": "ServicesRegisterPlugin\\Strategies\\SingletonRegistrationStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Title": "DynamicRegisterDI.cs",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Extentions\\DynamicRegisterDI.cs",
+              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Extentions\\DynamicRegisterDI.cs",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Extentions\\DynamicRegisterDI.cs",
+              "RelativeToolTip": "ServicesRegisterPlugin\\Extentions\\DynamicRegisterDI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:26:54.101Z",
+              "WhenOpened": "2024-10-23T11:21:06.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotFoundTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Exceptions\\NotFoundTypeException.cs",
+              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Exceptions\\NotFoundTypeException.cs",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Exceptions\\NotFoundTypeException.cs",
+              "RelativeToolTip": "ServicesRegisterPlugin\\Exceptions\\NotFoundTypeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:32:07.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TransientRegistrationStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\TransientRegistrationStrategy.cs",
-              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Strategies\\TransientRegistrationStrategy.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Strategies\\TransientRegistrationStrategy.cs",
-              "RelativeToolTip": "ServicesRegisterPlugin\\Strategies\\TransientRegistrationStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:27:38.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "RegistrationStrategyFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Factory\\RegistrationStrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Factory\\RegistrationStrategyFactory.cs",
               "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Factory\\RegistrationStrategyFactory.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Factory\\RegistrationStrategyFactory.cs",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Factory\\RegistrationStrategyFactory.cs",
               "RelativeToolTip": "ServicesRegisterPlugin\\Factory\\RegistrationStrategyFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:32:25.178Z",
+              "WhenOpened": "2024-10-23T13:30:51.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Scoped.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Atributes\\Scoped.cs",
-              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Atributes\\Scoped.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Atributes\\Scoped.cs",
-              "RelativeToolTip": "ServicesRegisterPlugin\\Atributes\\Scoped.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Services\\IProductService.cs",
+              "RelativeToolTip": "TestApi\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T11:50:40.223Z",
+              "WhenOpened": "2024-10-23T13:30:28.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Transient.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Atributes\\Transient.cs",
-              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Atributes\\Transient.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Atributes\\Transient.cs",
-              "RelativeToolTip": "ServicesRegisterPlugin\\Atributes\\Transient.cs",
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Services\\CategoryService.cs",
+              "RelativeToolTip": "TestApi\\Services\\CategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T11:51:00.868Z",
+              "WhenOpened": "2024-10-23T13:30:25.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Singleton.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Atributes\\Singleton.cs",
-              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Atributes\\Singleton.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Atributes\\Singleton.cs",
-              "RelativeToolTip": "ServicesRegisterPlugin\\Atributes\\Singleton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ServiceRegistrationOptions.cs",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Options\\ServiceRegistrationOptions.cs",
+              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\Options\\ServiceRegistrationOptions.cs",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\Options\\ServiceRegistrationOptions.cs",
+              "RelativeToolTip": "ServicesRegisterPlugin\\Options\\ServiceRegistrationOptions.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T11:50:50.245Z",
+              "WhenOpened": "2024-10-23T13:08:10.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "TestApi\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Services\\ProductService.cs",
+              "RelativeToolTip": "TestApi\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:22:08.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "TestApi\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Services\\CategoryService.cs",
-              "RelativeToolTip": "TestApi\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Program.cs",
+              "RelativeDocumentMoniker": "TestApi\\Program.cs",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Program.cs",
+              "RelativeToolTip": "TestApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T17:17:34.398Z"
+              "WhenOpened": "2024-10-23T11:20:43.31Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "TestApi\\Services\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Services\\IProductService.cs",
-              "RelativeToolTip": "TestApi\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T16:27:54.95Z"
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\README.md",
+              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\README.md",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\README.md",
+              "RelativeToolTip": "ServicesRegisterPlugin\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-23T11:38:50.887Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "TestController.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Controllers\\TestController.cs",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "TestApi\\Controllers\\TestController.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Controllers\\TestController.cs",
               "RelativeToolTip": "TestApi\\Controllers\\TestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T16:27:12.698Z"
+              "WhenOpened": "2024-10-23T12:10:06.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServicesRegisterPlugin.csproj",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
+              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
+              "RelativeToolTip": "ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T11:26:50.022Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "TestApi\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\Services\\ProductService.cs",
-              "RelativeToolTip": "TestApi\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T16:23:37.276Z"
+              "Title": "ServicesRegisterPlugin",
+              "DocumentMoniker": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
+              "RelativeDocumentMoniker": "ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
+              "ToolTip": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
+              "RelativeToolTip": "ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T11:26:52.391Z"
             }
           ]
         }

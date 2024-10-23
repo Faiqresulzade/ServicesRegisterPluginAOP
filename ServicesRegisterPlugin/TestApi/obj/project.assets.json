@@ -33,12 +33,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -61,12 +61,12 @@
         },
         "compile": {
           "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "frameworkReferences": [
@@ -80,12 +80,12 @@
         },
         "compile": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -93,29 +93,29 @@
         "type": "package",
         "compile": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
       },
-      "ServicesRegisterPlugin/1.0.0": {
+      "AutoDIRegister/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2"
         },
         "compile": {
-          "bin/placeholder/ServicesRegisterPlugin.dll": {}
+          "bin/placeholder/AutoDIRegister.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ServicesRegisterPlugin.dll": {}
+          "bin/placeholder/AutoDIRegister.dll": {}
         }
       }
     }
@@ -482,7 +482,7 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
-    "ServicesRegisterPlugin/1.0.0": {
+    "AutoDIRegister/1.0.0": {
       "type": "project",
       "path": "../ServicesRegisterPlugin/ServicesRegisterPlugin.csproj",
       "msbuildProject": "../ServicesRegisterPlugin/ServicesRegisterPlugin.csproj"
@@ -490,24 +490,24 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "ServicesRegisterPlugin >= 1.0.0",
+      "AutoDIRegister >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Honor\\.nuget\\packages\\": {}
+    "C:\\Users\\fbrasulzade\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj",
+      "projectUniqueName": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj",
       "projectName": "TestApi",
-      "projectPath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj",
-      "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\obj\\",
+      "projectPath": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\TestApi.csproj",
+      "packagesPath": "C:\\Users\\fbrasulzade\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fbrasulzade\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -516,14 +516,15 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://gitlab.xalqbank.az/api/v4/projects/278/packages/nuget/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj": {
-              "projectPath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj"
+            "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj": {
+              "projectPath": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj"
             }
           }
         }
@@ -567,7 +568,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

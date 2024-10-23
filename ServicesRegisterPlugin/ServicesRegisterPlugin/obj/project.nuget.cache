@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "b1cS7JMtqRk=",
+  "dgSpecHash": "ycisofJwjDU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Honor\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
+  "projectFilePath": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Honor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+    "C:\\Users\\fbrasulzade\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
   ],
   "logs": []
 }

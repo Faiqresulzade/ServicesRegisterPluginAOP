@@ -1,4 +1,4 @@
-using ServicesRegisterPlugin.Extentions;
+using ServicesRegisterPlugin.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,7 +8,11 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.RegisterServices(assemblyPrefix: "Test");
+
+builder.Services.RegisterServices(configure =>
+{
+    configure.AssemblyPrefix = "Test";
+});
 
 var app = builder.Build();
 
