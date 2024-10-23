@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AutoDIRegister</id>
+    <version>1.0.1</version>
+    <title>Automatic Dependency Injection Registration</title>
+    <authors>Faig Rasulzada</authors>
+    <icon>DI.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/Faiqresulzade/ServicesRegisterPluginAOP</projectUrl>
+    <description>A dynamic service registration plugin for .NET, allowing automatic registration of services using custom attributes such as Singleton, Scoped, and Transient. Supports configurable options for flexible dependency injection and registration handling.</description>
+    <releaseNotes># Release Notes
+
+## [1.0.0] - 2024-10-17
+### Initial Release
+- Added support for automatic service registration based on custom attributes: `[Singleton]`, `[Scoped]`, and `[Transient]`.
+- Implemented configuration options via `ServiceRegistrationOptions` for flexible registration.
+- Added support for registering open generic types.
+- Enabled custom type filters to control which services should be registered.
+- Added conflict handling options to gracefully handle duplicate registrations.
+- Provided extension methods for easy integration with `IServiceCollection`.
+
+## [1.1.0] - 2024-11-01
+### Improvements
+- Enhanced registration performance for large assemblies.
+- Added support for custom lifetime options for individual services.
+- Improved error handling and logging during the registration process.
+
+## [1.1.1] - 2024-11-10
+### Bug Fixes
+- Fixed a bug where services with multiple lifetimes were not registered correctly.
+- Addressed an issue where open generic types were not resolved properly in some cases.
+
+## [1.2.0] - 2024-12-01
+### New Features
+- Added support for attribute-based filtering based on attribute parameters.
+- Introduced an event-based system for tracking registration actions (`OnRegistering` callback).
+- Enabled handling of additional custom attributes for future extensibility.</releaseNotes>
+    <copyright>Copyright 2024</copyright>
+    <tags>register service register DI dependency injection</tags>
+    <repository type="git" url="https://github.com/Faiqresulzade/ServicesRegisterPluginAOP" commit="e707462126f850abb6663b21f1837fe7a5f991c5" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="8.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\bin\Debug\net8.0\ServicesRegisterPlugin.dll" target="lib\net8.0\ServicesRegisterPlugin.dll" />
+    <file src="C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\ServicesRegisterPlugin\README.md" target="\README.md" />
+    <file src="C:\Users\fbrasulzade\Downloads\DI.png" target="\DI.png" />
+  </files>
+</package>

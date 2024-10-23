@@ -28,7 +28,7 @@ internal static class DynamicServiceRegistrar
                 type.GetCustomAttributes().Any(attr =>
                     attr is Singleton || attr is Scoped || attr is Transient));
 
-        if (typesToRegister.Any()) return;
+        if (!typesToRegister.Any()) return;
 
         foreach (var type in typesToRegister)
         {

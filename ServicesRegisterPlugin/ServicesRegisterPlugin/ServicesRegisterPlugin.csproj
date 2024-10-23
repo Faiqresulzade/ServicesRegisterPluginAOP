@@ -11,7 +11,7 @@
     <Product>AutoDIRegister</Product>
     <Description>A dynamic service registration plugin for .NET, allowing automatic registration of services using custom attributes such as Singleton, Scoped, and Transient. Supports configurable options for flexible dependency injection and registration handling.  </Description>
     <Copyright>Copyright 2024</Copyright>
-    <PackageProjectUrl>https://kimyabirliyi.az/</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/Faiqresulzade/ServicesRegisterPluginAOP</PackageProjectUrl>
     <PackageIcon>DI.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/Faiqresulzade/ServicesRegisterPluginAOP</RepositoryUrl>
@@ -47,6 +47,7 @@
 </PackageReleaseNotes>
     <NeutralLanguage>en</NeutralLanguage>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>

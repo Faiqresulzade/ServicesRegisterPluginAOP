@@ -105,7 +105,7 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "AutoDIRegister/1.0.0": {
+      "AutoDIRegister/1.0.2": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -482,7 +482,7 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
-    "AutoDIRegister/1.0.0": {
+    "AutoDIRegister/1.0.2": {
       "type": "project",
       "path": "../ServicesRegisterPlugin/ServicesRegisterPlugin.csproj",
       "msbuildProject": "../ServicesRegisterPlugin/ServicesRegisterPlugin.csproj"
@@ -490,7 +490,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "AutoDIRegister >= 1.0.0",
+      "AutoDIRegister >= 1.0.2",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
