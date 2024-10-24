@@ -105,3 +105,5 @@ C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\Te
 C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestApi\obj\Debug\net8.0\TestApi.pdb
 C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestApi\obj\Debug\net8.0\TestApi.genruntimeconfig.cache
 C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestApi\obj\Debug\net8.0\ref\TestApi.dll
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestApi\bin\Debug\net8.0\TestsDLL.dll
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestApi\bin\Debug\net8.0\TestsDLL.pdb

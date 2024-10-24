@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ServicesRegisterPlugin\ServicesRegisterPlugin.csproj" />
+    <ProjectReference Include="..\TestsDLL\TestsDLL.csproj" />
   </ItemGroup>
 
 </Project>

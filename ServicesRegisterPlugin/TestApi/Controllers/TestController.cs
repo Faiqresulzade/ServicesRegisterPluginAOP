@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TestApi.Services;
+using TestsDLL;
 namespace TestApi.Controllers;
 
 [Route("api/[controller]")]

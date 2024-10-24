@@ -31,9 +31,7 @@ namespace ServicesRegisterPlugin.Registrations
             if (!typesToRegister.Any()) return;
 
             foreach (var type in typesToRegister)
-            {
                 RegisterType(services, type, options);
-            }
         }
 
         /// <summary>
@@ -47,13 +45,11 @@ namespace ServicesRegisterPlugin.Registrations
             var attribute = type.GetCustomAttributes().First(attr =>
                 attr is Singleton || attr is Scoped || attr is Transient);
 
-            var specifiedInterfaceName = attribute switch
-            {
-                Singleton singleton => singleton.InterfaceName,
-                Scoped scoped => scoped.InterfaceName,
-                Transient transient => transient.InterfaceName,
-                _ => null
-            };
+            var specifiedInterfaceName =
+                          (attribute as Singleton)?.InterfaceName ??
+                          (attribute as Scoped)?.InterfaceName ??
+                          (attribute as Transient)?.InterfaceName;
+
 
             var interfaceType = GetInterfaceType(type, specifiedInterfaceName);
 

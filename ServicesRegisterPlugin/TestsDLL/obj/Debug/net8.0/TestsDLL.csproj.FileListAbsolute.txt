@@ -1,0 +1,12 @@
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestsDLL\bin\Debug\net8.0\TestsDLL.deps.json
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestsDLL\bin\Debug\net8.0\TestsDLL.dll
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestsDLL\bin\Debug\net8.0\TestsDLL.pdb
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestsDLL\obj\Debug\net8.0\TestsDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestsDLL\obj\Debug\net8.0\TestsDLL.AssemblyInfoInputs.cache
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestsDLL\obj\Debug\net8.0\TestsDLL.AssemblyInfo.cs
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestsDLL\obj\Debug\net8.0\TestsDLL.csproj.CoreCompileInputs.cache
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestsDLL\obj\Debug\net8.0\TestsDLL.sourcelink.json
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestsDLL\obj\Debug\net8.0\TestsDLL.dll
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestsDLL\obj\Debug\net8.0\refint\TestsDLL.dll
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestsDLL\obj\Debug\net8.0\TestsDLL.pdb
+C:\Users\fbrasulzade\Desktop\ServicesRegisterPluginAOP\ServicesRegisterPlugin\TestsDLL\obj\Debug\net8.0\ref\TestsDLL.dll

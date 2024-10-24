@@ -11,7 +11,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.RegisterServices(configure =>
 {
-    configure.AssemblyPrefix = "Test";
+    configure.AssemblyPrefix = "TestsDLL";
 });
 
 var app = builder.Build();

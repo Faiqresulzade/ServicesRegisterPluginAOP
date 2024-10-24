@@ -18,11 +18,11 @@ using System.Reflection;
     "f services using custom attributes such as Singleton, Scoped, and Transient. Sup" +
     "ports configurable options for flexible dependency injection and registration ha" +
     "ndling.  ")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.2+e707462126f850abb6663b21f1837fe7a5f991c5")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.4.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.4+347ace3acb2cf6b7ddf49e062680c06f316723aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoDIRegister")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServicesRegisterPlugin")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.2.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.4.0")]
 [assembly: System.Reflection.AssemblyMetadataAttribute("RepositoryUrl", "https://github.com/Faiqresulzade/ServicesRegisterPluginAOP")]
 [assembly: System.Resources.NeutralResourcesLanguageAttribute("en")]
 

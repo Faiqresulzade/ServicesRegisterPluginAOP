@@ -105,7 +105,7 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "AutoDIRegister/1.0.2": {
+      "AutoDIRegister/1.0.4": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -116,6 +116,16 @@
         },
         "runtime": {
           "bin/placeholder/AutoDIRegister.dll": {}
+        }
+      },
+      "TestsDLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TestsDLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestsDLL.dll": {}
         }
       }
     }
@@ -482,16 +492,22 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
-    "AutoDIRegister/1.0.2": {
+    "AutoDIRegister/1.0.4": {
       "type": "project",
       "path": "../ServicesRegisterPlugin/ServicesRegisterPlugin.csproj",
       "msbuildProject": "../ServicesRegisterPlugin/ServicesRegisterPlugin.csproj"
+    },
+    "TestsDLL/1.0.0": {
+      "type": "project",
+      "path": "../TestsDLL/TestsDLL.csproj",
+      "msbuildProject": "../TestsDLL/TestsDLL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "AutoDIRegister >= 1.0.2",
-      "Swashbuckle.AspNetCore >= 6.4.0"
+      "AutoDIRegister >= 1.0.4",
+      "Swashbuckle.AspNetCore >= 6.4.0",
+      "TestsDLL >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -525,6 +541,9 @@
           "projectReferences": {
             "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj": {
               "projectPath": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\ServicesRegisterPlugin\\ServicesRegisterPlugin.csproj"
+            },
+            "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestsDLL\\TestsDLL.csproj": {
+              "projectPath": "C:\\Users\\fbrasulzade\\Desktop\\ServicesRegisterPluginAOP\\ServicesRegisterPlugin\\TestsDLL\\TestsDLL.csproj"
             }
           }
         }
