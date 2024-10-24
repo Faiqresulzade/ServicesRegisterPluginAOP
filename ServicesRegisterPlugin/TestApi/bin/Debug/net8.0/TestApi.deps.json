@@ -8,9 +8,9 @@
     ".NETCoreApp,Version=v8.0": {
       "TestApi/1.0.0": {
         "dependencies": {
-          "AutoDIRegister": "1.0.1",
+          "AutoDIRegister": "1.0.2",
           "Swashbuckle.AspNetCore": "6.4.0",
-          "ServicesRegisterPlugin": "1.0.1.0"
+          "ServicesRegisterPlugin": "1.0.2.0"
         },
         "runtime": {
           "TestApi.dll": {}
@@ -71,22 +71,22 @@
           }
         }
       },
-      "AutoDIRegister/1.0.1": {
+      "AutoDIRegister/1.0.2": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2"
         },
         "runtime": {
           "ServicesRegisterPlugin.dll": {
-            "assemblyVersion": "1.0.1",
-            "fileVersion": "1.0.1.0"
+            "assemblyVersion": "1.0.2",
+            "fileVersion": "1.0.2.0"
           }
         }
       },
-      "ServicesRegisterPlugin/1.0.1.0": {
+      "ServicesRegisterPlugin/1.0.2.0": {
         "runtime": {
           "ServicesRegisterPlugin.dll": {
-            "assemblyVersion": "1.0.1.0",
-            "fileVersion": "1.0.1.0"
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
           }
         }
       }
@@ -147,12 +147,12 @@
       "path": "swashbuckle.aspnetcore.swaggerui/6.4.0",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
     },
-    "AutoDIRegister/1.0.1": {
+    "AutoDIRegister/1.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "ServicesRegisterPlugin/1.0.1.0": {
+    "ServicesRegisterPlugin/1.0.2.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
